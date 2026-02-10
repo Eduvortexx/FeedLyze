@@ -3,29 +3,29 @@ Sistema web para coletar, organizar e analisar feedbacks de clientes, permitindo
 
 Ordem de execução:
 
-Git + GitHub
+1. Git + GitHub
  (criar repositório e versionar tudo desde o início)
 
 
-Back-end — C# com ASP.NET Core Web API (.NET)
+2. Back-end — C# com ASP.NET Core Web API (.NET)
  (base do sistema, regras de negócio e endpoints)
 
 
-Banco de dados — PostgreSQL ou SQLite
+3. Banco de dados — PostgreSQL ou SQLite
  (modelar tabelas e conectar com a API)
 
 
-Lógica de insights e chat inteligente
+4. Lógica de insights e chat inteligente
  (regras, filtros, consultas SQL e respostas em texto)
 
 
-Front-end — React (JavaScript)
+5. Front-end — React (JavaScript)
  (interface, formulários e consumo da API)
 
 
-Gráficos — Chart.js
+6. Gráficos — Chart.js
  (visualização das avaliações e métricas)
 
 
-Ajustes finais e documentação (README)
+7. Ajustes finais e documentação (README)
  (explicar o projeto, decisões técnicas e uso)
