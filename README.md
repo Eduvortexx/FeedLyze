@@ -1,127 +1,76 @@
 # FeedLyze
 Sistema web para coletar, organizar e analisar feedbacks de clientes, permitindo que empresas visualizem avaliações por nota, comentários e sugestões em um dashboard com gráficos e filtros.
 
-Ordem Oficial de Execução — Feedlyze (Stack JS Profissional)
-🔹 FASE 1 — Base do Projeto
-Criar pasta raiz Feedlyze
+Roadmap de Desenvolvimento — Feedlyze
 
+1. Estrutura Inicial (concluído)
 
-Inicializar Git
+- Configuração do repositório
 
+- Organização em backend/ e frontend/
 
-Criar estrutura:
+- Configuração do Git
 
 
-backend/
+2. Backend (Node.js + TypeScript + Express)
 
+- Inicialização do projeto Node
 
-frontend/
+- Configuração do TypeScript
 
+- Estruturação de pastas (routes, controllers, services)
 
-Primeiro commit
+- Criação da API REST
 
+- Integração com PostgreSQL
 
+- CRUD de Feedbacks
 
-🔹 FASE 2 — Backend (Node + TS + Express)
-Inicializar Node no backend
 
+3. Banco de Dados
 
-Instalar TypeScript
+- Modelagem da entidade Feedback
 
+- Criação de tabelas
 
-Configurar Express
+- Testes de inserção e consulta
 
 
-Estrutura profissional (src, routes, controllers, services)
+4. Frontend (React + TypeScript)
 
+- Criação da aplicação React
 
-Criar primeira rota de teste
+- Formulário de envio de feedback
 
+- Listagem e filtros
 
-Conectar com PostgreSQL
+- Integração com a API
 
 
-Criar modelo de Feedback
+5. Visualização de Dados
 
+- Integração com Chart.js
 
-Criar rotas:
+- Gráficos de desempenho
 
+- Filtros dinâmicos
 
-Criar feedback
 
+6. Insights Inteligentes
 
-Listar feedback
+- Endpoint de estatísticas
 
+- Sistema de análise de feedbacks
 
-Filtrar por nota
+- Interface de chat para geração de insights
 
 
+7. Deploy e Finalização
 
-🔹 FASE 3 — Banco de Dados
-Modelagem da tabela Feedback
+- Ajustes finais
 
+- Documentação
 
-Testar inserção real no banco
+- Deploy do backend
 
-
-Validar consultas
-
-
-
-🔹 FASE 4 — Frontend (React + TS)
-Criar app React com TypeScript
-
-
-Criar layout base
-
-
-Formulário para enviar feedback
-
-
-Tela de listagem
-
-
-Conectar frontend com backend (fetch/axios)
-
-
-
-🔹 FASE 5 — Insights & Gráficos
-Implementar Chart.js
-
-
-Criar gráfico de notas
-
-
-Criar filtros dinâmicos
-
-
-Criar endpoint de estatísticas no backend
-
-
-
-🔹 FASE 6 — Chat Inteligente (IA leve)
-Criar endpoint de insights
-
-
-Implementar lógica de análise
-
-
-Criar interface de chat
-
-
-Conectar chat com backend
-
-
-
-🔹 FASE 7 — Finalização Profissional
-Melhorar README
-
-
-Organizar commits
-
-
-Deploy backend
-
-
-Deploy frontend
-
+- Deploy do frontend
