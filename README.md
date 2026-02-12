@@ -81,3 +81,5 @@ Roadmap de Desenvolvimento — Feedlyze
 - Deploy do backend
 
 - Deploy do frontend
+
+Projeto em andamento
