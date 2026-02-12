@@ -1,9 +1,10 @@
 # FeedLyze
 Sistema web para coletar, organizar e analisar feedbacks de clientes, permitindo que empresas visualizem avaliações por nota, comentários e sugestões em um dashboard com gráficos e filtros.
 
-Roadmap de Desenvolvimento — Feedlyze
+#Roadmap de Desenvolvimento — Feedlyze#
+---
 
-1. Estrutura Inicial (concluído)
+**1. Estrutura Inicial (concluído)**
 
 - Configuração do repositório
 
@@ -12,7 +13,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - Configuração do Git
 
 
-2. Backend (Node.js + TypeScript + Express)
+
+**2. Backend (Node.js + TypeScript + Express)**
 
 - Inicialização do projeto Node
 
@@ -27,7 +29,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - CRUD de Feedbacks
 
 
-3. Banco de Dados
+
+**3. Banco de Dados**
 
 - Modelagem da entidade Feedback
 
@@ -36,7 +39,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - Testes de inserção e consulta
 
 
-4. Frontend (React + TypeScript)
+
+**4. Frontend (React + TypeScript)**
 
 - Criação da aplicação React
 
@@ -47,7 +51,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - Integração com a API
 
 
-5. Visualização de Dados
+
+**5. Visualização de Dados**
 
 - Integração com Chart.js
 
@@ -56,7 +61,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - Filtros dinâmicos
 
 
-6. Insights Inteligentes
+
+**6. Insights Inteligentes**
 
 - Endpoint de estatísticas
 
@@ -65,7 +71,8 @@ Roadmap de Desenvolvimento — Feedlyze
 - Interface de chat para geração de insights
 
 
-7. Deploy e Finalização
+
+**7. Deploy e Finalização**
 
 - Ajustes finais
 
